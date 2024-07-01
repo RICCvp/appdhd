@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/appdhd/',
   title: "Appdhd",
   description: "A personal website with links to the apps and services that helped me in my ADHD journey.",
   themeConfig: {
